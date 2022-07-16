@@ -64,11 +64,9 @@ dpemotes
 
 ### Important 📋
 
-```
-1 -  Sorry if the variables on the client side are a bit confusing, I also want to apologize if the code is a bit messy, but in principle I did not plan to release this code to github. I will be working to re-create the code in a better way.
-```
+_Sorry if the variables on the client side are a bit confusing, I also want to apologize if the code is a bit messy, but in principle I did not plan to release this code to github. I will be working to re-create the code in a better way._
 
-_You can reprogram all the code but keep in mind that you need experience in lua programming to not break the code, if you want to add a function or you want to modify something you can write to me_
+_You can reprogram all the code but keep in mind that you need experience in lua programming to not break the code, if you want to add a function or you want to modify something you can write to me._
 
 ### Credits 🙏​
 
