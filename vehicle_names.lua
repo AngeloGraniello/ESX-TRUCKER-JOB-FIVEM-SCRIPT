@@ -1,0 +1,6 @@
+Citizen.CreateThread(function()
+	AddTextEntry('0x3D876A61', 'Brickade BoxTruck')
+	AddTextEntry('0x85E4FB37', 'Brickade Flatbed')
+	AddTextEntry('0x588E208A', 'Brickade DumpTruck')
+	AddTextEntry('0x123393BE', 'Brickade Recovery')
+end)
