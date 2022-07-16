@@ -1,10 +1,10 @@
-# THE BEST PIZZA SCRIPT JOB FOR FIVEM 
+# TRUCKER JOB ESX FOR FIVEM SCRIPT
 
-_This script will help you to copy different coordinate formats with a simple and beautiful system._
+_This is an amazing script to work as a truck driver for fivem._
 
 ## Starting 🚀
 
-_This is the main script of the best pizza job for fivem, remember to install the dependency._
+_Remember to read this document carefully in order to install the script correctly._
 
 
 ### Requirements 📋
@@ -12,7 +12,6 @@ _This is the main script of the best pizza job for fivem, remember to install th
 _requirements you need for it to work properly_
 
 ```
-pizza_job_req_gianluigi
 interact-sound
 rprogress
 mythic_notify
@@ -26,7 +25,7 @@ dpemotes
 ```
 
 ```
-2 -  write in your server.cfg the name of the folder pizza_job_gianluigi
+2 -  write in your server.cfg the name of the folder trucker_job_gianluigi
 ```
 
 ```
@@ -34,15 +33,33 @@ dpemotes
 ```
 
 ```
-4 - remove any scripts named "pizza_job_gianluigi" 
+4 - remove any scripts named "trucker_job_gianluigi" 
 ```
 
 ```
-5 - Install the sql.sql file in your database to load the job, you could also do this manually. 
+5 - Install the sql.sql file in your database to load the job, you could also do this manually
+```
+
+### Basic configurations 👷 
+
+```
+1 - You can change the name, color and size of the blip in config.lua
 ```
 
 ```
-6 - Install all the necessary items for the script to work, you can see it in the config,lua or in the server.lua. I have not placed a .sql file because currently the inventories work with metadata but that is another topic. 
+2 -  You can change the spawn of the car and model in the config.lua file
+```
+
+```
+3 -  You can translate the script completely in the config.lua as well
+```
+
+```
+4 - You can change the path coordinates in config.lua, you can also change the ped and model coordinates
+```
+
+```
+5 - If you need help or do not understand a variable you can contact me and I will help you without any problem
 ```
 
 ### Important 📋
@@ -50,6 +67,8 @@ dpemotes
 ```
 1 -  Sorry if the variables on the client side are a bit confusing, I also want to apologize if the code is a bit messy, but in principle I did not plan to release this code to github. I will be working to re-create the code in a better way.
 ```
+
+_You can reprogram all the code but keep in mind that you need experience in lua programming to not break the code, if you want to add a function or you want to modify something you can write to me_
 
 ### Credits 🙏​
 
@@ -62,46 +81,12 @@ _All credits to the original creator of the sounds and images used for this scri
 ### Dependencies Links 📋
 
 ```
-1 - Link for pizza_job_req_gianluigi: They are located in the folder. 
+1 - Link for trucker_job_gianluigi dependencies: All dependencies are located in the folder called "dependencies".. 
 ```
 
 Preview English: 
 
 Preview Español: 
-
-### Dependencies Guide 🚀
-
-_This is a requirement of the main pizza job script, it is important to install it._
-
-
-### Requirements 📋
-
-_requirements you need for it to work properly_
-
-```
-interact-sound
-rprogress
-mythic_notify
-dpemotes
-```
-
-### Installation 🔧
-
-```
-1 - add the script to your resource folder
-```
-
-```
-2 -  write in your server.cfg the name of the folder pizza_job_req_gianluigi
-```
-
-```
-3 -  Modify the config.lua file 
-```
-
-```
-4 - remove any scripts named "pizza_job_req_gianluigi" 
-```
 
 ### Important 📋
 
